@@ -217,6 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# vs code
+# VS Code
 .vscode/
+
+# Python cache
 __pycache__/
+*.py[cod]
+*$py.class
